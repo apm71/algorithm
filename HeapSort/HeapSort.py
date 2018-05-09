@@ -1,5 +1,5 @@
 class heap(object):
-    heapsize = 9 #this var must be equals the length-1 of array
+    heapsize = 9 #this var must be equals the length-1 of the array
 
     def heapsort(self, a):
         len = s.heapsize
